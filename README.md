@@ -4,7 +4,7 @@ Faithful32 Version of vanilla tweaks packs
 # Credits
 Vanilla Tweaks
 
-# Packlist/Credits\
+# Packlist/Credits
 added are shown indented\
 some fixes are already in faithful by default
 
