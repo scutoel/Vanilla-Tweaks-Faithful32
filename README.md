@@ -8,7 +8,7 @@ Vanilla Tweaks
 added are shown indented\
 some fixes are already in faithful by default
 
-**Aesthetic**\
+**Aesthetic**
 - AlternateBlockDestruction      -TheRandomGamerTRG\
 - BlackNetherBricks              -TheRandomGamerTRG,whatt,Pomi108,DMgaming,HARAG0N_MC\
 - CherryPicking                  -Wooferscoots,Alexsor,Nyodex\
