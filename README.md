@@ -19,7 +19,7 @@ some fixes are already in faithful by default
 - SolidSlime                        -TheRandomGamerTRG,HARAG0N_MC,Evorp
 - DarkOakSaturation (no varried)    -Wooferscoots,jogurciQ, Fred figglehorn, DMgaming, Nyodex
 - HorizontalNuggets                 -Wooferscoots,Fabri
-- SidewaysNuggets                   -Wooferscoots,ProstoChelovek, Pomi108, Evorp
+- SidewaysNuggets                   -Wooferscoots,ProstoChelovek, Pomi108, Evorp\
 SofterWool\
 - BrownLeather                      -Wooferscoots,Nyodex,DMgaming,BellPepperBrian,Pythagoras_314,Cituation,ProstoChelovek
 RedIronGolemFlowers\
