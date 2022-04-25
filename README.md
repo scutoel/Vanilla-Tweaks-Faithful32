@@ -9,14 +9,14 @@ added are shown indented\
 some fixes are already in faithful by default
 
 **Aesthetic**\
--AlternateBlockDestruction      -TheRandomGamerTRG\
--BlackNetherBricks              -TheRandomGamerTRG,whatt,Pomi108,DMgaming,HARAG0N_MC\
--CherryPicking                  -Wooferscoots,Alexsor,Nyodex\
--DifferentStems                 -Wooferscoots,Nyodex\
--UnbundledHayBales              -TheRolf,Nyodex\
--UnbundledDriedKelp             -Wooferscoot,Alexsor\
--SolidHoney                     -Wooferscoots,jogurciQ,HARAG0N_MC\
--SolidSlime                     -TheRandomGamerTRG,HARAG0N_MC,Evorp\
+- AlternateBlockDestruction      -TheRandomGamerTRG\
+- BlackNetherBricks              -TheRandomGamerTRG,whatt,Pomi108,DMgaming,HARAG0N_MC\
+- CherryPicking                  -Wooferscoots,Alexsor,Nyodex\
+- DifferentStems                 -Wooferscoots,Nyodex\
+- UnbundledHayBales              -TheRolf,Nyodex\
+- UnbundledDriedKelp             -Wooferscoot,Alexsor\
+- SolidHoney                     -Wooferscoots,jogurciQ,HARAG0N_MC\
+- SolidSlime                     -TheRandomGamerTRG,HARAG0N_MC,Evorp\
 DarkOakSaturation\
 HorizontalNuggets\
 SidewaysNuggets\
