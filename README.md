@@ -22,7 +22,7 @@ some fixes are already in faithful by default
 - SidewaysNuggets                   -Wooferscoots,ProstoChelovek, Pomi108, Evorp\
 SofterWool
 - BrownLeather                      -Wooferscoots,Nyodex,DMgaming,BellPepperBrian,Pythagoras_314,Cituation,ProstoChelovek
-RedIronGolemFlowers\
+- RedIronGolemFlowers               -Wooferscoots,jogurciQ\
 BetterParticles\
 HDShieldBanners\
 EndlessEndRods\
