@@ -301,7 +301,7 @@ ConcreteGreenBG\
 ConcreteGrayBG
 
 **Menu Panoramas**\
-All
+have more faithful represented/iconic world ones
 
 **Retro**\
 Use Program Art Faithful
