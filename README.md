@@ -17,17 +17,17 @@ some fixes are already in faithful by default
 - UnbundledDriedKelp                -Wooferscoot,Alexsor
 - SolidHoney                        -Wooferscoots,jogurciQ,HARAG0N_MC
 - SolidSlime                        -TheRandomGamerTRG,HARAG0N_MC,Evorp
-- DarkOakSaturation (no varried)    -Wooferscoots,jogurciQ, Fred figglehorn, DMgaming, Nyodex
+- DarkOakSaturation (no varried)    -Wooferscoots,jogurciQ,Fred figglehorn,DMgaming,Nyodex
 - HorizontalNuggets                 -Wooferscoots,Fabri
 - SidewaysNuggets                   -Wooferscoots,ProstoChelovek, Pomi108, Evorp\
 SofterWool
 - BrownLeather                      -Wooferscoots,Nyodex,DMgaming,BellPepperBrian,Pythagoras_314,Cituation,ProstoChelovek
-- RedIronGolemFlowers               -Wooferscoots,jogurciQ\
-BetterParticles\
-HDShieldBanners\
-EndlessEndRods\
-PinkEndRods\
-LessPurplePurpur\
+- RedIronGolemFlowers               -Wooferscoots,jogurciQ
+- BetterParticles (enchanting table)-Wooferscoots,Vattic\
+HDShieldBanners                     -wait for faithfulx64\
+- EndlessEndRods                    -Wooferscoots,Pomi108,Evorp
+- PinkEndRods                       -Wooferscoots,Pomi108,Evorp
+- LessPurplePurpur                  -Wooferscoots,LethalChicken\
 UniqueDyes\
 AnimatedCampfireItem\
 AshlessCampfires\
