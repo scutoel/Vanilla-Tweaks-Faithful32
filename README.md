@@ -304,7 +304,34 @@ ConcreteGrayBG
 have more faithful represented/iconic world ones
 
 **Retro**\
-Use Program Art Faithful
+OldMinecraftLogo\
+DirtPanoramaOverlay\
+AlphaFoilage\
+OldCobblestone\
+OldOres\
+OldStrippedDarkOak\
+OldPlanks\
+OldGravel\
+OldNetherrack\
+OldLava\
+OldObsidian\
+OldMetalBlocks\
+OldWater\
+OldIce\
+OldLapisTexture\
+OldSpongeTexture\
+OldWoolColors\
+1.11ShulkerBoxes\
+PoppyToRose\
+TerracottatoHardenedClay\
+DirtPathToGrassPath\
+BlueWidgetsHighlight\
+- ZombiePigman                      -Wooferscoots,LethalChicken\
+OarlessBoats\
+OldDoorSounds\
+OldDamageSounds\
+OldExplosionSounds\
+OldXpSounds\
 
 **Fun**\
 XisumaTurtle\
