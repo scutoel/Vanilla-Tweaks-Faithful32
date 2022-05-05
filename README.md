@@ -326,7 +326,7 @@ PoppyToRose\
 TerracottatoHardenedClay\
 DirtPathToGrassPath\
 BlueWidgetsHighlight\
-- ZombiePigman                      -Wooferscoots,LethalChicken\
+- ZombiePigman                      -Wooferscoots,Xaphobia,Evorp,Harag0n_MC,vanilla tweaks\
 OarlessBoats\
 OldDoorSounds\
 OldDamageSounds\
